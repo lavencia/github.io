@@ -1,0 +1,287 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Helvetica';
+}
+.box {
+  width: 100%;
+  height: 700px;
+  background: url(../css/fisrtscreen.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.logo {
+  height: 60px;
+  width: 275px;
+  background: url(logo.svg);
+  margin-left: 10%;
+  margin-top: 40px;
+  float: left;
+}
+.sul {
+  width: 350px;
+  height: 30px;
+  text-align: center;
+  padding-top: 43.6px;
+  margin: 0 auto;
+  font-weight: 200;
+}
+.sul a {
+  color: white;
+  margin-left: 40px;
+}
+a:checked {
+  color: white;
+}
+.other {
+  color: white;
+  width: 300px;
+  position: absolute;
+  margin-left: 75%;
+  margin-top: -31px;
+}
+.other p {
+  float: left;
+}
+.other h3 {
+  width: 150px;
+}
+span {
+  font-weight: bolder;
+  padding-right: 23px;
+}
+.header {
+  height: auto;
+}
+#content {
+  margin-left: 10%;
+  margin-top: 250px;
+  color: white;
+}
+#content h1 {
+  font-size: 60px;
+  letter-spacing: 2px;
+font-weight: 600;
+text-transform: uppercase
+;}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+
+.twondbox {
+  width: 100%;
+  height: auto;
+  background: white;
+}
+#features {
+  width: 70%;
+  height: 80px;
+  background: url(../css/features.svg);
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.about {
+  width: 35%;
+  height: auto;
+  margin: 0 auto;
+
+}
+.about h3 {
+  text-align: center;
+  color: #FF4500;
+}
+.about p {
+  text-align: center;
+  color: black;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 25px;
+}
+.oneond {
+  width: 100%;
+  height: 400px;
+  background: url(../css/1nd.png);
+  margin-top: 80px;
+  margin-bottom: 100px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.twond {
+  width: 100%;
+  height: 400px;
+  background: url(../css/2nd.png);
+  margin-top: 80px;
+  margin-bottom: 100px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.threend {
+width: 100%;
+height: 400px;
+background: url(../img/three.png);
+margin-top: 80px;
+margin-bottom: 100px;
+background-attachment: fixed;
+background-size: cover;
+}
+#listing {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  margin-top: 100px;
+
+}
+.win {
+  width: 400px;
+  height: 700px;
+  float: left;
+  margin-right: 0;
+}
+.winot {
+  width: 400px;
+  height: 700px;
+  float: left;
+  margin-right: 0;
+  margin-left: 10%;
+}
+h4 {
+  float: left;
+  font-size: 20px;
+}
+.price {
+  color: red;
+  margin-left: 86px;
+  font-size: 20px;
+}
+.winone {
+  width: 429px;
+  height: 350px;
+  background: url(../img/lava.png);
+  background-size: cover;
+
+}
+.win p {
+  font-size: 15px;
+  line-height: 23px;
+    width: 100%;
+}.winot p {
+  font-size: 15px;
+  line-height: 23px;
+    width: 100%;
+}
+.textt {
+  width: 429px;
+  height: auto;
+}
+.textt a {
+  color: #c70046;
+  font-size: 20px;
+
+}
+
+
+
+
+
+
+.okna {
+  width: 400px;
+  height: 700px;
+  float: left;
+  margin-top: 80px;
+  margin-left: 10%;
+  float: left;
+}
+.oknaother {
+  width: 400px;
+  height: 700px;
+  float: left;
+  margin-top: 80px;
+  margin-left: 8%;
+  float: left;
+}
+.okna_one {
+  width: 429px;
+  height: 350px;
+  background: url(../img/okno.png);
+  background-size: cover;
+}
+.okna_two {
+  width: 429px;
+  height: 350px;
+  background: url(../img/okno.png);
+  background-size: cover;
+}
+.okna_three {
+  width: 429px;
+  height: 350px;
+  background: url(../img/okno.png);
+  background-size: cover;
+}
+.price_ok {
+  color: orange;
+  font-size: 30px;
+  margin-top: 15px;
+    margin-left: 140px;
+}
+.textt p {
+  font-size: 15px;
+  line-height: 23px;
+    width: 100%;
+  padding-bottom: 20px;
+}
+.okna_screen {
+  width: 100%;
+  height: 100vh;
+}
+#ban {
+  width: 100%;
+  height: 350px;
+  background: orange;
+  margin-bottom: 200px;
+  color: white;
+}
+#ban_text {
+  width: 40%;
+  padding-left: 10%;
+  padding-top: 80px;
+  float: left;
+}
+#ban h3 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+#ban p {
+  font-size: 20px;
+}
+#acces {
+  padding-top: 140px;
+  color: silver;
+  width: 40%;
+  float: left;
+}
+.nana {
+  width: 200px;
+  height: auto;
+  padding: 20px;
+  font-size: 18px;
+  background: white;;
+  border: none;
+  margin-right: 40px;
+  float: left;
+  background-blend-mode: lighten;
+}
+button {
+  width: 200px;
+  height: 50px;
+  background: white;
+  color: black;
+  font-size: 15px;
+border: none;
+  margin-top: 30px;
+}

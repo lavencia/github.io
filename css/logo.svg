@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="245.957 40.703 313.178 68.881">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 50px;
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+        letter-spacing: 0.03em;
+      }
+
+      .cls-2 {
+        fill: #c23131;
+      }
+
+      .cls-3 {
+        fill: #ff6f00;
+      }
+    </style>
+  </defs>
+  <g id="Group_93" data-name="Group 93" transform="translate(-932 -1130)">
+    <text id="Lavencia" class="cls-1" transform="translate(1266.135 1222.959)"><tspan x="0" y="0">Lavencia</tspan></text>
+    <path id="Path_20" data-name="Path 20" class="cls-2" d="M-1.14,0h19.4V13.094H-3.484Z" transform="translate(1197.165 1226.403)"/>
+    <path id="Path_19" data-name="Path 19" class="cls-2" d="M28.042,68.748H42.127L70.04,0H53.628L35.149,50.14,16.8,0H0Z" transform="translate(1247.997 1239.527) rotate(180)"/>
+    <path id="Path_21" data-name="Path 21" class="cls-3" d="M8657.739,1109.584l-25.271-68.86,14.162-.021,27.974,68.881Z" transform="translate(-7426.579 130)"/>
+  </g>
+</svg>
